@@ -1,0 +1,14 @@
+[user]
+	name = landdio
+[init]
+	defaultBranch = main
+[core]
+	editor = nvim
+[color]
+	ui = true
+[alias]
+	commitm = commit -m
+	amend = commit --amend
+	create = checkout -b
+	return = checkout
+	branchs = branch -a
