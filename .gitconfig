@@ -10,5 +10,6 @@
 	commitm = commit -m
 	amend = commit --amend
 	create = checkout -b
+	newname = branch -m
 	return = checkout
 	branchs = branch -a
